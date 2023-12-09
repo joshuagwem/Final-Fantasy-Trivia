@@ -1,0 +1,193 @@
+[
+    {
+      "id": "q1",
+      "question": "Who is the main protagonist for Final Fantasy XVI?",
+      "answers": [
+        "Cloud Strife",
+        "Squall Leonhart",
+        "Clive Rosfield",
+        "Boggeyman"
+      ],
+      "correctAnswer": "Clive Rosfield"
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following is not considered a summon in Crisis  Core: Final Fantasy VII?",
+      "answers": ["Bahamut", "Odin", "Ifrit", "Shinryu"],
+      "correctAnswer": "Shinryu"
+    },
+    {
+      "id": "q3",
+      "question": "In Dissidia 012 Duodecim, they included both the main protagonist and antagonist from the mainline games. Which mainline game did not include an antagonist?",
+      "answers": [
+        "Final Fantasy XIII",
+        "Final Fantasy X",
+        "Final Fantasy VI",
+        "Final Fantasy VIII"
+      ],
+      "correctAnswer": "Final Fantasy XIII"
+    },
+    {
+      "id": "q4",
+      "question": "In which game is 'Cloud Strife' playable in?",
+      "answers": [
+        "Crisis Core: Final Fantasy VII",
+        "Dissidia: Final Fantasy",
+        "Dirge of Cerberus: Final Fantasy VII",
+        "Before Crisis: Final Fantasy VII"
+      ],
+      "correctAnswer": "Dissidia: Final Fantasy"
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following is considered an MMORPG (Massive Multiplayer Online Role-Playing Game)?",
+      "answers": [
+        "Final Fantasy XIV",
+        "Final Fantasy XVI",
+        "Final Fantasy XII",
+        "Final Fantasy XV"
+      ],
+      "correctAnswer": "Final Fantasy XIV"
+    },
+    {
+      "id": "q6",
+      "question": "Bahamut makes an appearance (Eikon, Primal, Summon, etc) in many games. In which game was it's first appearace?",
+      "answers": [
+        "Final Fantasy I",
+        "Final Fantasy VI",
+        "Final Fantasy XI",
+        "Final Fantasy XIV"
+      ],
+      "correctAnswer": "Final Fantasy I"
+    },
+    {
+      "id": "q7",
+      "question": "Which game was first introduced into the 3D gaming era?",
+      "answers": [
+        "Final Fantasy V",
+        "Final Fantasy VI",
+        "Final Fantasy VII",
+        "Final Fantasy VIII"
+      ],
+      "correctAnswer": "Final Fantasy VII"
+    },
+    {
+      "id": "q8",
+      "question": "Many games had many different crossovers. Which of the following did not include Final Fantasy content?",
+      "answers": [
+        "Phantasy Star Online 2",
+        "Monster Hunter World",
+        "Super Smash Bros. Ultimate",
+        "Nier Automata"
+      ],
+      "correctAnswer": "Nier Automata"
+    },
+    {
+      "id": "q9",
+      "question": "Who is the main protagonist for Final Fantasy VI?",
+      "answers": [
+        "Terra Branford",
+        "Cecil Harvey",
+        "Jill Valentine",
+        "Bartz Klauser"
+      ],
+      "correctAnswer": "Terra Branford"
+    },
+    {
+      "id": "q10",
+      "question": "Which was the first Final Fantasy game released on a non-Nintendo system?",
+      "answers": ["Sega Genesis", "Sony Playstation", "Phillips CDI", "Xbox"],
+      "correctAnswer": "Sony Playstation"
+    },
+    {
+      "id": "q11",
+      "question": "Which game first introduced chocobos?",
+      "answers": [
+        "Final Fantasy I",
+        "Final Fantasy II",
+        "Final Fantasy III",
+        "Final Fantasy IV"
+      ],
+      "correctAnswer": "Final Fantasy II"
+    },
+    {
+      "id": "q12",
+      "question": "There's a character that travels the void to visit the other series of the game. Which character does this?",
+      "answers": ["Exdeath", "Firion", "Bahamut", "Gilgamesh"],
+      "correctAnswer": "Gilgamesh"
+    },
+    {
+      "id": "q13",
+      "question": "Triple Triad is a card game from Final Fantasy. Which game was it first introduced in?",
+      "answers": [
+        "Final Fantasy III",
+        "Final Fantasy V",
+        "Final Fantasy VIII",
+        "Final Fantasy XIV"
+      ],
+      "correctAnswer": "Final Fantasy VIII"
+    },
+    {
+      "id": "q14",
+      "question": "Which Japanese Final Fantasy game was released as 'Final Fantasy II' in America?",
+      "answers": ["Final Fantasy II", "Final Fantasy IV", "Final Fantasy III", "Final Fantasy V"],
+      "correctAnswer": "Final Fantasy II"
+    },
+    {
+      "id": "q15",
+      "question": "What is the name of the monster race with pom-poms on their heads and their catchphrase is 'Kupo!'?",
+      "answers": ["Chocobos", "Goblins", "Moogles", "Typhon"],
+      "correctAnswer": "Moogles"
+    },
+    {
+      "id": "q16",
+      "question": "Final Fantasy introduced a monster that's basically a ball of fire and causes explosion. What is the monster's name?",
+      "answers": ["Bombs", "Grenades", "Mines", "Missles"],
+      "correctAnswer": "Bombs"
+    },
+    {
+      "id": "q17",
+      "question": "Which mainline Final Fantasy was first introduced as an MMORPG (Massive Multiplayer Online Role-Playing Game)?",
+      "answers": [
+        "Final Fantasy V",
+        "Final Fantasy XI",
+        "Final Fantasy XIV",
+        "Final Fantasy XVI"
+      ],
+      "correctAnswer": "Final Fantasy XI"
+    },
+    {
+      "id": "q18",
+      "question": "In what year was the first Final Fantasy game officially released in North America?",
+      "answers": [
+        "1987",
+        "1990",
+        "1988",
+        "1991"
+      ],
+      "correctAnswer": "1990"
+    },
+    {
+      "id": "q19",
+      "question": "Final Fantasy is known to re-release remaster/remakes of the previous games. Besides the new recent game, which mainline Final Fantasy did not get released?",
+      "answers": [
+        "Final Fantasy III",
+        "Final Fantasy XIII",
+        "Final Fantasy VIII",
+        "Final Fantasy XI"
+      ],
+      "correctAnswer": "Final Fantasy XI"
+    },
+    {
+      "id": "q20",
+      "question": "Final Fantasy is known to create very memorial music throughout the years. Who is the main composer that keeps creating the magic of Final Fantasy music?",
+      "answers": [
+        "Koji Kondo",
+        "Nobuo Uematsu",
+        "Noctis Lucis Caelum",
+        "Yoko Taro"
+      ],
+      "correctAnswer": "Nobuo Uematsu"
+    }
+  ]
+  
